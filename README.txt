@@ -1,6 +1,6 @@
 Spring + resteasy
 link:
-http://localhost:8080/resteasy/contacts
+http://localhost:8080/contacts
 
 
 
